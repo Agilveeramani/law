@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.agil {
+    color: blue;
+}
+.bga {
+    background-image: url(../images/bg1.jpg);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+}
+.lbs {
+    border: 2px dotted white;
+    padding: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.bpp {
+    border: 2px dotted rgb(147, 147, 228);
+    padding: 3px;
+}
+.bpp1 {
+    border: 2px dotted rgb(147, 147, 228);
+    padding: 8px;
+}
+.abp {
+    border: 7px;
+    padding: 2px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+.abp1 {
+    border: 7px;
+    padding: 4px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+.wvb {
+    background-image: url(../images/bg6.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+}
+.ls {
+    background-color: blueviolet;
+}
+.pbd {
+    border: 5px;
+    border-color: white;
+    border-style: solid;
+}
+.ppc {
+    background-color: rgb(233, 227, 227) ;
+}
